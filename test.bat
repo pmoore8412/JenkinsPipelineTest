@@ -1,1 +1,1 @@
-mvn clean test
+mvn -f JenkinsPipelineTest/ test
