@@ -1,1 +1,1 @@
-c:\apache-maven-3.8.6\bin\mvn -f D:\\JenkinsPipelineTest\\pom.xml test
+c:\apache-maven-3.8.6\bin\mvn -f JenkinsPipelineTest\\pom.xml test
