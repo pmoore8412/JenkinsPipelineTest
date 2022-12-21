@@ -1,1 +1,1 @@
-c:\apache-maven-3.8.6\bin\mvn -f JenkinsPipelineTest\\pom.xml clean install -DskipTests
+c:\apache-maven-3.8.6\bin\mvn -f D:\\JenkinsPipelineTest\\pom.xml clean install -DskipTests
