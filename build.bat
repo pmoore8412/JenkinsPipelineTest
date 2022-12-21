@@ -1,1 +1,1 @@
-mvn clean install
+mvn -f JenkinsPipelineTest/ install -DskipTests
